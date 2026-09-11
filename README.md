@@ -1,4 +1,5 @@
-## Hi there 👋
+Victor de Oliveira Silva
+Estudante de Ciência da Computação na UENF
 
 <!--
 **Rikrown/Rikrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
