@@ -1,4 +1,4 @@
-Victor de Oliveira Silva
+Victor de Oliveira Silva | 
 Estudante de Ciência da Computação na UENF
 
 <!--
